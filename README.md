@@ -2,11 +2,13 @@
 
 #### Goals/Needs
 
-1. Develop disease likelihood use cases
-2. Integrate existing ontologies ([VectorBase](https://www.vectorbase.org/), [EnvO](https://github.com/EnvironmentOntology/envo), etc.)
-3. Investigate suitable backend (Neo4j, OrientDB, etc)
-4. Google Knowledge Graph search results?
-5. Find data
-6. Scientific justification - similarity metrics related to geospatial coverage, attributes, links to other things...
+- Develop disease likelihood use cases
+- Integrate existing ontologies ([VectorBase](https://www.vectorbase.org/), [EnvO](https://github.com/EnvironmentOntology/envo), etc.)
+- Investigate suitable backend (Neo4j, OrientDB, etc)
+- Google Knowledge Graph search results?
+- Find data (DBPedia, GKG, etc.)
+- Scientific justification - similarity metrics related to geospatial coverage, attributes, links to other things...
+ - topic modeling using [gensim](https://pypi.python.org/pypi/gensim) or similar
+- write prototype in Python
 
 ### Stay tuned
